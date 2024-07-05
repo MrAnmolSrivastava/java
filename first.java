@@ -8,7 +8,7 @@ public class first {
         System.out.print("No of Rows : ");
         int row = sc.nextInt();
         Scanner c = new Scanner(System.in);
-        System.out.print("No of Cols : ");
+        System.out.print("No of Columns : ");
         int col = c.nextInt();
         for(i = 1 ; i<=row ; i++)
             {
