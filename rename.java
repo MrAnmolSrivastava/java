@@ -8,7 +8,5 @@ public class rename{
         // age is used as an integer variable
        int age = sc.nextInt();
        System.out.println("your age is " +age); 
-
-       sc.close();
     }
 }
