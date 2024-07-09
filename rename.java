@@ -8,5 +8,6 @@ public class rename{
        int age = sc.nextInt();
        System.out.println("your age is " +age);
         sc.close();
+        //pgm ends here
     }
 }
