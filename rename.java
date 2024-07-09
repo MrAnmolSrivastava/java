@@ -1,7 +1,7 @@
 import java.util.*;
 public class rename{
     public static void main(String[] args) {
-      
+        // Pgm Starts from here      
        Scanner sc =  new Scanner(System.in);
       
        System.out.println("enter your age");
