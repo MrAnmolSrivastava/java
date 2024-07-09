@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class Pattern {
     public static void main(String[] args) {
-        int n;
+        
         System.out.println("Enter the value");
         Scanner sc = new Scanner(System.in);
-        n=sc.nextInt();
+        int n = sc.nextInt();
         // Upper half
         for (int i = n; i >= 1; i--) {
             for (int j = n; j >= 1; j--) {
@@ -26,5 +26,6 @@ public class Pattern {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

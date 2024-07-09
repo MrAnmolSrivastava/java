@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class task1 {
+public class newchange {
     public static void main(String[] args) {
         Solution s = new Solution();
         List<Boolean> correct = Arrays.asList(
